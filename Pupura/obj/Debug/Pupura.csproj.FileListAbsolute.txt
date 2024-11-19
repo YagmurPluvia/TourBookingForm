@@ -1,0 +1,16 @@
+C:\Users\iyagm\source\repos\Pupura\bin\Debug\Pupura.exe.config
+C:\Users\iyagm\source\repos\Pupura\bin\Debug\Pupura.exe
+C:\Users\iyagm\source\repos\Pupura\bin\Debug\Pupura.pdb
+C:\Users\iyagm\source\repos\Pupura\obj\Debug\Pupura.csproj.AssemblyReference.cache
+C:\Users\iyagm\source\repos\Pupura\obj\Debug\Pupura.Properties.Resources.resources
+C:\Users\iyagm\source\repos\Pupura\obj\Debug\Pupura.csproj.GenerateResource.cache
+C:\Users\iyagm\source\repos\Pupura\obj\Debug\Pupura.csproj.CoreCompileInputs.cache
+C:\Users\iyagm\source\repos\Pupura\obj\Debug\Pupura.exe
+C:\Users\iyagm\source\repos\Pupura\obj\Debug\Pupura.pdb
+C:\Users\iyagm\source\repos\Pupura\obj\Debug\Pupura.AnaSayfa.resources
+C:\Users\iyagm\source\repos\Pupura\obj\Debug\Pupura.Turlar.resources
+C:\Users\iyagm\source\repos\Pupura\obj\Debug\Pupura.Tur.resources
+C:\Users\iyagm\source\repos\Pupura\obj\Debug\Pupura.Rezervasyon.resources
+C:\Users\iyagm\source\repos\Pupura\obj\Debug\Pupura.Ödeme.resources
+C:\Users\iyagm\source\repos\Pupura\obj\Debug\Pupura.Admin.resources
+C:\Users\iyagm\source\repos\Pupura\obj\Debug\Pupura.TurEkleSil.resources
